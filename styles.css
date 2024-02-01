@@ -1,6 +1,8 @@
 body {
   background-color: #0000ff;
   color: #fff;
+  padding-bottom: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
@@ -10,7 +12,11 @@ h2 {
 h5 {
   max-width: 300px;
   margin: 0 auto;
-  padding-top: 20px;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #fff;
+  color: #0000a7;
 }
 
 a {
@@ -19,6 +25,11 @@ a {
 
 img {
   border-radius: 50%;
+  border: 10px solid #0000a7;
+}
+
+li {
+  padding: 10px 0;
 }
 
 .jumbotron {
@@ -34,4 +45,17 @@ img {
   max-width: 40%;
   float: right;
   margin-right: 150px;
+}
+
+.left,
+.right {
+  padding-bottom: 50px;
+}
+
+#index {
+  text-align: center;
+}
+
+#index ul {
+  list-style: none;
 }

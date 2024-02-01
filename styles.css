@@ -1,0 +1,31 @@
+body {
+  background-color: #0000ff;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+}
+
+a {
+  color: #fff;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.left {
+  float: left;
+  margin-left: 150px;
+}
+
+.right {
+  max-width: 40%;
+  float: right;
+  margin-right: 150px;
+}

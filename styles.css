@@ -7,6 +7,12 @@ h2 {
   text-align: center;
 }
 
+h5 {
+  max-width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
 a {
   color: #fff;
 }

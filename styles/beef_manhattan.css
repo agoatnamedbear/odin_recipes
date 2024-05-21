@@ -55,6 +55,18 @@ h2 {
   margin-bottom: 2rem;
 }
 
+h3 {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+p {
+  width: 60%;
+  margin-bottom: 2.5rem;
+  color: black;
+  font-size: 1.3rem;
+}
+
 strong {
   color: red;
 }

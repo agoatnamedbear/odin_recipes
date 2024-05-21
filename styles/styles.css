@@ -14,7 +14,7 @@ html {
 
 body {
   height: 100vh;
-  background-image: url(/img/vegetables-set-left-black-slate.jpg);
+  background-image: url(../img/vegetables-set-left-black-slate.jpg);
   /* background-color: blues; */
   background-size: cover;
   background-repeat: no-repeat;
